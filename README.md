@@ -35,7 +35,7 @@ git clone https://github.com/zdata-inc/sam2_realtime
 
 ### 2. Install SAM2
 ```
-cd sam2_realtime
+cd sam2_objectTracking
 pip install -e .
 pip install -e ".[notebooks]"
 ```
