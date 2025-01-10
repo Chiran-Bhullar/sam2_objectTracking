@@ -25,7 +25,7 @@ The core implementation resides in `sam2_object_tracker.py`, where the number of
 
 ### 1. Create Conda Environment
 ```bash
-conda create -n sam2 python=3.10.15
+conda create -n safetyWhat python=3.11
 ```
 
 ### 2. Clone SAM2 Realtime Repo
